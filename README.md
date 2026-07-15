@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Email Agent
 
 An AI-powered email intelligence assistant that helps users identify important emails, opportunities, deadlines, and action-required messages before they are missed.
@@ -594,4 +593,3 @@ By combining email intelligence with AI-powered prioritization, Email Agent help
 # License
 
 MIT License
->>>>>>> f72e62c238fa7471317f492c8edf5debf29aa38c
