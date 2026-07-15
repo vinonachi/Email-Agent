@@ -1,0 +1,15 @@
+# Gmail OAuth
+inbox_data.json
+credentials.json
+token.pickle
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/

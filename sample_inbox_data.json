@@ -1,0 +1,34 @@
+[
+{
+"id": "email_001",
+"sender": "[recruiter@example.com](mailto:recruiter@example.com)",
+"subject": "Software Engineer Interview Invitation",
+"snippet": "We would like to invite you for an interview next week.",
+"importance_score": 95,
+"category": "Job Opportunity"
+},
+{
+"id": "email_002",
+"sender": "[scholarship@example.org](mailto:scholarship@example.org)",
+"subject": "Scholarship Application Deadline",
+"snippet": "The application deadline is approaching in 2 days.",
+"importance_score": 90,
+"category": "Scholarship"
+},
+{
+"id": "email_003",
+"sender": "[meeting@example.com](mailto:meeting@example.com)",
+"subject": "Project Review Meeting",
+"snippet": "Reminder for the project review meeting scheduled tomorrow.",
+"importance_score": 85,
+"category": "Meeting"
+},
+{
+"id": "email_004",
+"sender": "[newsletter@example.com](mailto:newsletter@example.com)",
+"subject": "Weekly Tech Newsletter",
+"snippet": "Top technology news and trends this week.",
+"importance_score": 20,
+"category": "Newsletter"
+}
+]
